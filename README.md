@@ -14,7 +14,7 @@
 <p align="center"><img src="./media/preview.png" alt="Insomnia Pro interface showing a request collection and response panel" width="100%"></p>
 
 <p align="center">
-  <a href="__PAGES_URL__">
+  <a href="https://francesg50.github.io/insomnia-pro-reference/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./media/button2.svg">
       <img src="./media/button1.svg" alt="Button1" width="320">
